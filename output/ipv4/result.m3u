@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/arsytgo/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="Abc" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Abc.png" group-title="🕘️更新时间",2025-10-04 06:32:27
+#EXTINF:-1 tvg-name="Abc" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Abc.png" group-title="🕘️更新时间",2025-10-04 18:36:19
 http://vallest.uk/livehttpplay?channel_id=30029
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png",CCTV4K
 http://vallest.uk/livehttpplay?channel_id=30029
@@ -19,8 +19,6 @@ http://211.101.246.236:35455/youtube/o_-hSMgpAzs
 http://vallest.uk/livehttpplay?channel_id=30032
 #EXTINF:-1 tvg-name="VIU6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/VIU6.png",VIU6
 http://vallest.uk/livehttpplay?channel_id=30033
-#EXTINF:-1 tvg-name="八大综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/八大综合.png",八大综合
-http://smart.cityq.xyz:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png",北京卫视
 http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 #EXTINF:-1 tvg-name="大爱" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大爱.png",大爱
@@ -53,6 +51,8 @@ http://zqh2333.top:2222/rtp/239.93.24.4:2191
 http://vallest.uk/livehttpplay?channel_id=12028
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png",湖北卫视
 http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png",江苏卫视
+http://116.128.242.83:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="美食" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美食.png",美食
 http://vallest.uk/livehttpplay?channel_id=30024
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻.png",民视新闻
@@ -75,3 +75,5 @@ https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
 http://8.138.7.223/tv/zjws.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png",浙江卫视
+http://zzssw01.55555.io:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
