@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/arsytgo/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="Abc" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Abc.png" group-title="🕘️更新时间",2025-10-09 06:35:34
+#EXTINF:-1 tvg-name="Abc" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Abc.png" group-title="🕘️更新时间",2025-10-09 18:45:28
 https://hls-gateway.vpstv.net/streams/476589.m3u8
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Animal Planet.png",Animal Planet
 https://hls-gateway.vpstv.net/streams/476589.m3u8
@@ -7,6 +7,8 @@ https://hls-gateway.vpstv.net/streams/476589.m3u8
 https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC.png",BBC
 https://hls-gateway.vpstv.net/streams/709168.m3u8
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png",CCTV4K
+http://vallest.uk/livehttpplay?channel_id=30029
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png",CCTV5
 http://vallest.uk/livehttpplay?channel_id=10107
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN.png",CNN
@@ -57,8 +59,6 @@ https://hls-gateway.vpstv.net/streams/477714.m3u8
 https://live.catvod.com/catvod_com.php?id=One&token=045ac65dd07c925e41564b5a46a0004a8009b89939a410beac2b4ea104263837%3A1758241876
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK32.png",RTHK32
 http://vallest.uk/livehttpplay?channel_id=30028
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png",TVBS
-http://211.101.246.236:35455/youtube/o_-hSMgpAzs
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png",TVBS
 https://live.iill.top/youtube/o_-hSMgpAzs
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png",TVBS
@@ -136,8 +136,6 @@ http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-long
 #EXTINF:-1 tvg-name="博斯运动2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/博斯运动2.png",博斯运动2
 https://smart.pendy.dpdns.org/Smart.php?id=bosisport2_twn
 #EXTINF:-1 tvg-name="大爱" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大爱.png",大爱
-http://211.101.246.236:35455/youtube/DTNkEm6jaqQ
-#EXTINF:-1 tvg-name="大爱" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大爱.png",大爱
 https://live.iill.top/youtube/DTNkEm6jaqQ
 #EXTINF:-1 tvg-name="大爱" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大爱.png",大爱
 http://live.catvod.com/smart.php?id=daai_twn
@@ -177,8 +175,6 @@ http://gslbmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/1200/index.m3u8?msisdn=
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226345/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png",东方卫视
 https://stream1.freetv.fun/dong-fang-wei-shi-gao-qing-10.ctv
-#EXTINF:-1 tvg-name="东森财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森财经.png",东森财经
-http://211.101.246.236:35455/youtube/1I2iq41Akmo
 #EXTINF:-1 tvg-name="东森财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森财经.png",东森财经
 https://live.iill.top/youtube/1I2iq41Akmo
 #EXTINF:-1 tvg-name="东森财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森财经.png",东森财经
@@ -588,7 +584,7 @@ https://live.catvod.com/catvod_com.php?id=ctinews&token=baf9d32cd3022a0b22c39499
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻.png",中天新闻
 https://hls-gateway.vpstv.net/streams/477695.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻.png",中天新闻
-https://stream1.freetv.fun/zhong-tian-xin-wen-6.ctv
+https://stream1.freetv.fun/zhong-tian-xin-wen-7.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻.png",中天新闻
 https://www.judy.xx.kg/judy.php?id=4gtv-4gtv009
 #EXTINF:-1 tvg-name="中天综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天综合.png",中天综合

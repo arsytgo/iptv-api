@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/arsytgo/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="Abc" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Abc.png" group-title="🕘️更新时间",2025-10-09 06:35:34
-http://vallest.uk/livehttpplay?channel_id=10107
+#EXTINF:-1 tvg-name="Abc" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Abc.png" group-title="🕘️更新时间",2025-10-09 18:45:28
+http://vallest.uk/livehttpplay?channel_id=30029
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png",CCTV4K
+http://vallest.uk/livehttpplay?channel_id=30029
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png",CCTV5
 http://vallest.uk/livehttpplay?channel_id=10107
 #EXTINF:-1 tvg-name="CN卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CN卡通.png",CN卡通
@@ -11,18 +13,12 @@ http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 http://vallest.uk/livehttpplay?channel_id=30023
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK32.png",RTHK32
 http://vallest.uk/livehttpplay?channel_id=30028
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png",TVBS
-http://211.101.246.236:35455/youtube/o_-hSMgpAzs
 #EXTINF:-1 tvg-name="VIU" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/VIU.png",VIU
 http://vallest.uk/livehttpplay?channel_id=30032
 #EXTINF:-1 tvg-name="VIU6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/VIU6.png",VIU6
 http://vallest.uk/livehttpplay?channel_id=30033
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png",北京卫视
 http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-#EXTINF:-1 tvg-name="大爱" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大爱.png",大爱
-http://211.101.246.236:35455/youtube/DTNkEm6jaqQ
-#EXTINF:-1 tvg-name="东森财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森财经.png",东森财经
-http://211.101.246.236:35455/youtube/1I2iq41Akmo
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森电影.png",东森电影
 https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森洋片.png",东森洋片
