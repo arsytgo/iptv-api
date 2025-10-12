@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/arsytgo/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="Abc" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Abc.png" group-title="🕘️更新时间",2025-10-12 18:34:30
+#EXTINF:-1 tvg-name="Abc" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Abc.png" group-title="🕘️更新时间",2025-10-13 06:34:30
 https://hls-gateway.vpstv.net/streams/476589.m3u8
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Animal Planet.png",Animal Planet
 https://hls-gateway.vpstv.net/streams/476589.m3u8
@@ -34,8 +34,6 @@ https://stream1.freetv.fun/hbo-11.m3u8
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO.png",HBO
 https://smart.pendy.dpdns.org/Smart.php?id=Hbo
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO.png",HBO
-https://live.catvod.com/live.php?id=hbohd_twn&token=590676b7ba491690eab7f7bb5b03f6cd42ec5d0b699f26847815563beebb3d66%3A1760231823%3AMTcyLjIxMi4xNjUuNjc%3D
-#EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO.png",HBO
 https://hls-gateway.vpstv.net/streams/476278.m3u8
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO.png",HBO
 http://pullpackage.alivecdn.com/live/kD0Grg6PTqpktGbHEewF1IdNYdXaPI9sJgqO1w3b1CVXRYc9nQ.flv
@@ -54,23 +52,17 @@ http://vallest.uk/livehttpplay?channel_id=30023
 #EXTINF:-1 tvg-name="J2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/J2.png",J2
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Nickelodeon.png",Nickelodeon
-https://live.catvod.com/live.php?id=Nickelodeon&token=84aad901513ce30c52c75ed44e7c42a1601b5cadb0e25a38128a04a74fc880a8%3A1760231823%3AMTcyLjIxMi4xNjUuNjc%3D
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Nickelodeon.png",Nickelodeon
 https://hls-gateway.vpstv.net/streams/477714.m3u8
 #EXTINF:-1 tvg-name="One" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/One.png",One
 https://live.catvod.com/catvod_com.php?id=One&token=045ac65dd07c925e41564b5a46a0004a8009b89939a410beac2b4ea104263837%3A1758241876
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK32.png",RTHK32
 http://vallest.uk/livehttpplay?channel_id=30028
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png",TVBS
-http://bvm.808848.xyz:50007/4gtv-4gtv073/index.m3u8
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png",TVBS
 https://live.iill.top/youtube/o_-hSMgpAzs
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png",TVBS
 https://smart.pendy.dpdns.org/Smart.php?id=tvbs
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png",TVBS
 https://www.judy.xx.kg/judy.php?id=4gtv-4gtv073
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png",TVBS
-https://live.catvod.com/live.php?id=tvbs&token=36cedb56408d32142d8cf59e285de222ed9427cc56286639bb2f6095eadf1683%3A1760231823%3AMTcyLjIxMi4xNjUuNjc%3D
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png",TVBS
 https://hls-gateway.vpstv.net/streams/708925.m3u8
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png",TVBS
@@ -128,8 +120,6 @@ https://hls-gateway.vpstv.net/streams/477089.m3u8
 #EXTINF:-1 tvg-name="博斯高球1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/博斯高球1.png",博斯高球1
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn05
 #EXTINF:-1 tvg-name="博斯高球2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/博斯高球2.png",博斯高球2
-http://bvm.808848.xyz:50007/litv-longturn06/index.m3u8
-#EXTINF:-1 tvg-name="博斯高球2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/博斯高球2.png",博斯高球2
 https://live.catvod.com/catvod_com.php?id=bosigolf2_twn&token=83e4a511562daad635b4938d51358d61eeacb9a149bd55f3ada34c3c7376f676%3A1758241876
 #EXTINF:-1 tvg-name="博斯高球2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/博斯高球2.png",博斯高球2
 https://hls-gateway.vpstv.net/streams/477073.m3u8
@@ -139,8 +129,6 @@ http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-long
 https://smart.pendy.dpdns.org/Smart.php?id=bosigolf2_twn
 #EXTINF:-1 tvg-name="博斯运动" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/博斯运动.png",博斯运动
 https://hls-gateway.vpstv.net/streams/477034.m3u8
-#EXTINF:-1 tvg-name="博斯运动2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/博斯运动2.png",博斯运动2
-http://bvm.808848.xyz:50007/litv-longturn08/index.m3u8
 #EXTINF:-1 tvg-name="博斯运动2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/博斯运动2.png",博斯运动2
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn08
 #EXTINF:-1 tvg-name="博斯运动2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/博斯运动2.png",博斯运动2
@@ -206,8 +194,6 @@ https://stream1.freetv.fun/dong-sen-yang-pian-3.m3u8
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森洋片.png",东森洋片
 https://hls-gateway.vpstv.net/streams/476997.m3u8
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森洋片.png",东森洋片
-https://live.catvod.com/live.php?id=ettvwestern&token=f9ccb9f1d8c9d5430a0ccbe00c84e80b438b6e14424ce2f52a28d043de72a72b%3A1760231823%3AMTcyLjIxMi4xNjUuNjc%3D
-#EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森洋片.png",东森洋片
 http://live.catvod.com/smart.php?id=ettvwestern
 #EXTINF:-1 tvg-name="动物星球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动物星球.png",动物星球
 https://hls-gateway.vpstv.net/streams/477088.m3u8
@@ -219,8 +205,6 @@ https://hls-gateway.vpstv.net/streams/477083.m3u8
 https://www.judy.xx.kg/judy.php?id=4gtv-4gtv010
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png",凤凰香港
 https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png",凤凰香港
-https://migu.188766.xyz/?migutoken=e9ec0871b6c8953270ca0120af961675&id=hkphoenix_twn&type=dy
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png",凤凰香港
 http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png",凤凰香港
@@ -240,13 +224,11 @@ https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png",凤凰中文
 http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png",凤凰中文
-http://zqh2333.top:2222/rtp/239.93.24.9:2192
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png",凤凰中文
 http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png",凤凰中文
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+http://zqh2333.top:2222/rtp/239.93.24.9:2192
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png",凤凰中文
-https://migu.188766.xyz/?migutoken=6a3d0061bb0d10e26e35dfdcaa58eec9&id=phoenixtv_hd&type=dy
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png",凤凰中文
 http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png",凤凰中文
@@ -255,16 +237,16 @@ https://cdn.163189.xyz/live/fhzw/stream.m3u8
 https://stream1.freetv.fun/4e695e885cc20b20b7e3ec874fe52ed75e27443778c8ff29e498c4c9d7cec4a0.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png",凤凰中文
 https://k44991.kylintv.tv/live/pxna_iphone.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png",凤凰中文
+http://cdn.163189.xyz/live/fhzw/stream.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png",凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png",凤凰资讯
-http://zqh2333.top:2222/rtp/239.93.24.4:2191
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png",凤凰资讯
 http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png",凤凰资讯
-http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+http://zqh2333.top:2222/rtp/239.93.24.4:2191
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png",凤凰资讯
-https://migu.188766.xyz/?migutoken=2180ba7eb985ebb376e03b117d28f766&id=phoenixinfo_hd&type=dy
+http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png",凤凰资讯
 https://cdn6.163189.xyz/live/fhzx/stream.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png",凤凰资讯
@@ -275,6 +257,8 @@ https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 https://hls-gateway.vpstv.net/streams/476958.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png",凤凰资讯
 http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png",凤凰资讯
+https://stream1.freetv.fun/a5857ad51b58a0f7a8c9cbdf291571692b0eed9f5ab2cfce97a211260533c0d8.m3u8
 #EXTINF:-1 tvg-name="公视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/公视.png",公视
 https://hls-gateway.vpstv.net/streams/476984.m3u8
 #EXTINF:-1 tvg-name="公视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/公视.png",公视
@@ -390,8 +374,6 @@ https://cdn3.132.us.kg/live/lhox/stream.m3u8
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华偶像.png",龙华偶像
 https://smart.pendy.dpdns.org/Smart.php?id=lunghuaidol_twn
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华偶像.png",龙华偶像
-https://live.catvod.com/live.php?id=lunghuaidol_twn&token=1d291f6b16116cba292882632867c5a183f3b85f42047dadf9b6278e1d0b7b36%3A1760231823%3AMTcyLjIxMi4xNjUuNjc%3D
-#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华偶像.png",龙华偶像
 https://hls-gateway.vpstv.net/streams/708930.m3u8
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华偶像.png",龙华偶像
 http://live.catvod.com/smart.php?id=lunghuaidol_twn
@@ -457,8 +439,6 @@ http://vallest.uk/livehttpplay?channel_id=30026
 https://stream1.freetv.fun/nian-dai-xin-wen-7.m3u8
 #EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/年代新闻.png",年代新闻
 https://vx65267199.18cn.dpdns.org/26.m3u8
-#EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/年代新闻.png",年代新闻
-https://live.catvod.com/live.php?id=niandainews_twn&token=4ce6b2554b20624dfec8e186b44bd42124f03aa8b8ad164d6a90ba0f76f6ebbc%3A1760231823%3AMTcyLjIxMi4xNjUuNjc%3D
 #EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/年代新闻.png",年代新闻
 https://hls-gateway.vpstv.net/streams/709037.m3u8
 #EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/年代新闻.png",年代新闻
@@ -557,8 +537,6 @@ https://vx65267199.18cn.dpdns.org/48.m3u8
 https://hls-gateway.vpstv.net/streams/477081.m3u8
 #EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来育乐.png",纬来育乐
 https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
-#EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来育乐.png",纬来育乐
-https://live.catvod.com/live.php?id=videolandyule&token=ceb0ff531bafe2824720a580758819e3b22680bae3812604b7c8dd268153303d%3A1760231823%3AMTcyLjIxMi4xNjUuNjc%3D
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png",五星体育
 https://migu.188766.xyz/?migutoken=7da04533e8e25e745557d3e76e46faa4&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png",五星体育
@@ -569,8 +547,6 @@ https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-10.m3u8
 https://other.ottiptv.cc/wxty.m3u8
 #EXTINF:-1 tvg-name="壹电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/壹电影.png",壹电影
 https://hls-gateway.vpstv.net/streams/476280.m3u8
-#EXTINF:-1 tvg-name="壹新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/壹新闻.png",壹新闻
-https://live.catvod.com/live.php?id=yinews&token=cb42165a53e2033ef1613189189549c03387e90e1d4dcef2c114a5325f56a0d7%3A1760231823%3AMTcyLjIxMi4xNjUuNjc%3D
 #EXTINF:-1 tvg-name="壹新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/壹新闻.png",壹新闻
 https://hls-gateway.vpstv.net/streams/488993.m3u8
 #EXTINF:-1 tvg-name="娱乐新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/娱乐新闻.png",娱乐新闻
@@ -594,13 +570,9 @@ https://migu.188766.xyz/?migutoken=754bb07c57383fc11a0257f77bf54149&id=%E6%B5%99
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png",浙江卫视
 https://cc06.tv12.xyz/117.m3u8
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png",中视
-http://bvm.808848.xyz:50007/4gtv-4gtv040/index.m3u8
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png",中视
 https://stream1.freetv.fun/zhong-shi-6.m3u8
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png",中视
 https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png",中视
-https://live.catvod.com/live.php?id=zhongshihd_twn&token=306076d3e1d03c9443651a67b842be485d0ade19d7ea944dde80684c404d8bb5%3A1760231823%3AMTcyLjIxMi4xNjUuNjc%3D
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png",中视
 https://hls-gateway.vpstv.net/streams/476983.m3u8
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png",中视
@@ -611,8 +583,6 @@ https://php.946985.xyz/jack4gtv.php?id=4gtv-4gtv040
 https://live.catvod.com/catvod_com.php?id=ctinews&token=baf9d32cd3022a0b22c394997fa09c4ca09b2f72407329a6136e9bf29b7bfa9f%3A1758241876
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻.png",中天新闻
 https://hls-gateway.vpstv.net/streams/477695.m3u8
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻.png",中天新闻
-https://stream1.freetv.fun/zhong-tian-xin-wen-7.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻.png",中天新闻
 https://www.judy.xx.kg/judy.php?id=4gtv-4gtv009
 #EXTINF:-1 tvg-name="中天综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天综合.png",中天综合
