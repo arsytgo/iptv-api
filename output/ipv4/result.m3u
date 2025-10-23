@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/arsytgo/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="Abc" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Abc.png" group-title="🕘️更新时间",2025-10-23 06:11:53
+#EXTINF:-1 tvg-name="Abc" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Abc.png" group-title="🕘️更新时间",2025-10-23 18:17:01
 http://vallest.uk/livehttpplay?channel_id=30029
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png",CCTV4K
 http://vallest.uk/livehttpplay?channel_id=30029
@@ -15,10 +15,10 @@ http://vallest.uk/livehttpplay?channel_id=30023
 http://vallest.uk/livehttpplay?channel_id=30028
 #EXTINF:-1 tvg-name="VIU" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/VIU.png",VIU
 http://vallest.uk/livehttpplay?channel_id=30032
-#EXTINF:-1 tvg-name="VIU6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/VIU6.png",VIU6
-http://vallest.uk/livehttpplay?channel_id=30033
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png",北京卫视
 http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png",东方卫视
+http://1.31.14.70:54321/hls/27/index.m3u8
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森电影.png",东森电影
 https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森洋片.png",东森洋片
