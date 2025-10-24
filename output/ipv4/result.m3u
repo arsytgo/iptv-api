@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/arsytgo/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="Abc" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Abc.png" group-title="🕘️更新时间",2025-10-24 18:17:39
+#EXTINF:-1 tvg-name="Abc" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Abc.png" group-title="🕘️更新时间",2025-10-25 06:15:45
 http://vallest.uk/livehttpplay?channel_id=30029
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png",CCTV4K
 http://vallest.uk/livehttpplay?channel_id=30029
@@ -41,10 +41,6 @@ http://zqh2333.top:2222/rtp/239.93.24.4:2191
 http://vallest.uk/livehttpplay?channel_id=12028
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png",湖北卫视
 http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png",湖北卫视
-http://1.31.14.70:54321/hls/39/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png",江苏卫视
-http://1.31.14.70:54321/hls/3/index.m3u8
 #EXTINF:-1 tvg-name="美食" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美食.png",美食
 http://vallest.uk/livehttpplay?channel_id=30024
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻.png",民视新闻
