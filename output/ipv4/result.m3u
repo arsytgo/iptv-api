@@ -1,8 +1,10 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/arsytgo/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="Abc" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Abc.png" group-title="🕘️更新时间",2026-03-06 06:24:29
+#EXTINF:-1 tvg-name="Abc" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Abc.png" group-title="🕘️更新时间",2026-03-06 18:27:49
 http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery.png",Discovery
 http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png",TVBS
+http://rihou.cc:555/tv/[Hv]tvbS闽南
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png",北京卫视
 http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png",北京卫视
