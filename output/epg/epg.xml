@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260426223126 +0800">
+<tv date="20260427114143 +0800">
 	<channel id="东方卫视">
 		<display-name lang="zh">东方卫视</display-name>
 	</channel>
@@ -1035,8 +1035,14 @@
 	<programme channel="东方卫视" start="20260428230600 +0800" stop="20260428234800 +0800">
 		<title lang="zh">繁华似锦(19)</title>
 	</programme>
-	<programme channel="东方卫视" start="20260428234800 +0800" stop="20260429000000 +0800">
+	<programme channel="东方卫视" start="20260428234800 +0800" stop="20260429002900 +0800">
 		<title lang="zh">繁华似锦(20)</title>
+	</programme>
+	<programme channel="东方卫视" start="20260429002900 +0800" stop="20260429011000 +0800">
+		<title lang="zh">繁华似锦(21)</title>
+	</programme>
+	<programme channel="东方卫视" start="20260429011000 +0800" stop="20260429015200 +0800">
+		<title lang="zh">繁华似锦(22)</title>
 	</programme>
 	<channel id="凤凰中文">
 		<display-name lang="zh">凤凰中文</display-name>
@@ -4187,6 +4193,21 @@
 	<programme channel="北京卫视" start="20260428234600 +0800" stop="20260429000000 +0800">
 		<title lang="zh">红星剧场</title>
 	</programme>
+	<programme channel="北京卫视" start="20260429000000 +0800" stop="20260429001000 +0800">
+		<title lang="zh">纪录片</title>
+	</programme>
+	<programme channel="北京卫视" start="20260429001000 +0800" stop="20260429002300 +0800">
+		<title lang="zh">纪录片</title>
+	</programme>
+	<programme channel="北京卫视" start="20260429002300 +0800" stop="20260429003900 +0800">
+		<title lang="zh">纪录片</title>
+	</programme>
+	<programme channel="北京卫视" start="20260429003900 +0800" stop="20260429012200 +0800">
+		<title lang="zh">档案</title>
+	</programme>
+	<programme channel="北京卫视" start="20260429012200 +0800" stop="20260429020600 +0800">
+		<title lang="zh">档案</title>
+	</programme>
 	<channel id="江苏卫视">
 		<display-name lang="zh">江苏卫视</display-name>
 	</channel>
@@ -4900,6 +4921,9 @@
 	</programme>
 	<programme channel="江苏卫视" start="20260428231500 +0800" stop="20260429000000 +0800">
 		<title lang="zh">梦想创业家</title>
+	</programme>
+	<programme channel="江苏卫视" start="20260429000000 +0800" stop="20260429004100 +0800">
+		<title lang="zh">纪录片</title>
 	</programme>
 	<channel id="浙江卫视">
 		<display-name lang="zh">浙江卫视</display-name>
@@ -5765,6 +5789,15 @@
 	<programme channel="浙江卫视" start="20260428231800 +0800" stop="20260429000000 +0800">
 		<title lang="zh">周播剧场:冰湖重生(7)</title>
 	</programme>
+	<programme channel="浙江卫视" start="20260429000000 +0800" stop="20260429000600 +0800">
+		<title lang="zh">好戏看浙里</title>
+	</programme>
+	<programme channel="浙江卫视" start="20260429000600 +0800" stop="20260429005200 +0800">
+		<title lang="zh">纪录片</title>
+	</programme>
+	<programme channel="浙江卫视" start="20260429005200 +0800" stop="20260429025800 +0800">
+		<title lang="zh">我们的爸爸</title>
+	</programme>
 	<channel id="湖北卫视">
 		<display-name lang="zh">湖北卫视</display-name>
 	</channel>
@@ -6488,7 +6521,13 @@
 	<programme channel="湖北卫视" start="20260428230000 +0800" stop="20260428233000 +0800">
 		<title lang="zh">长江新闻号</title>
 	</programme>
-	<programme channel="湖北卫视" start="20260428233000 +0800" stop="20260429000000 +0800">
+	<programme channel="湖北卫视" start="20260428233000 +0800" stop="20260429002000 +0800">
+		<title lang="zh">生死连</title>
+	</programme>
+	<programme channel="湖北卫视" start="20260429002000 +0800" stop="20260429010800 +0800">
+		<title lang="zh">生死连</title>
+	</programme>
+	<programme channel="湖北卫视" start="20260429010800 +0800" stop="20260429020000 +0800">
 		<title lang="zh">生死连</title>
 	</programme>
 	<channel id="湖南卫视">
@@ -7348,6 +7387,15 @@
 	</programme>
 	<programme channel="湖南卫视" start="20260428230100 +0800" stop="20260429000000 +0800">
 		<title lang="zh">芒果季风剧场:锦绣安宁(30)</title>
+	</programme>
+	<programme channel="湖南卫视" start="20260429000000 +0800" stop="20260429003000 +0800">
+		<title lang="zh">第二次人生(19)</title>
+	</programme>
+	<programme channel="湖南卫视" start="20260429003000 +0800" stop="20260429011000 +0800">
+		<title lang="zh">第二次人生(20)</title>
+	</programme>
+	<programme channel="湖南卫视" start="20260429011000 +0800" stop="20260429015000 +0800">
+		<title lang="zh">第二次人生(21)</title>
 	</programme>
 	<channel id="凤凰香港">
 		<display-name lang="zh">凤凰香港</display-name>
