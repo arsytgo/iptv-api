@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260504225448 +0800">
+<tv date="20260505111407 +0800">
 	<channel id="东方卫视">
 		<display-name lang="zh">东方卫视</display-name>
 	</channel>
@@ -4241,6 +4241,30 @@
 	</programme>
 	<programme channel="北京卫视" start="20260507012600 +0800" stop="20260507013800 +0800">
 		<title lang="zh">纪录片</title>
+	</programme>
+	<programme channel="北京卫视" start="20260507013800 +0800" stop="20260507022700 +0800">
+		<title lang="zh">档案</title>
+	</programme>
+	<programme channel="北京卫视" start="20260507022700 +0800" stop="20260507031600 +0800">
+		<title lang="zh">档案</title>
+	</programme>
+	<programme channel="北京卫视" start="20260507053300 +0800" stop="20260507055500 +0800">
+		<title lang="zh">法治进行时</title>
+	</programme>
+	<programme channel="北京卫视" start="20260507055500 +0800" stop="20260507070000 +0800">
+		<title lang="zh">养生堂</title>
+	</programme>
+	<programme channel="北京卫视" start="20260507070000 +0800" stop="20260507070100 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="北京卫视" start="20260507070100 +0800" stop="20260507090400 +0800">
+		<title lang="zh">北京您早</title>
+	</programme>
+	<programme channel="北京卫视" start="20260507112500 +0800" stop="20260507120000 +0800">
+		<title lang="zh">大国医者</title>
+	</programme>
+	<programme channel="北京卫视" start="20260507120000 +0800" stop="20260507130500 +0800">
+		<title lang="zh">特别关注</title>
 	</programme>
 	<channel id="江苏卫视">
 		<display-name lang="zh">江苏卫视</display-name>
