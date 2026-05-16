@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/arsytgo/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="Abc" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Abc.png" group-title="🕘️更新时间",2026-05-16 06:46:23
+#EXTINF:-1 tvg-name="Abc" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Abc.png" group-title="🕘️更新时间",2026-05-16 18:57:32
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Animal Planet.png",Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/tracks-v1a1/mono.m3u8
@@ -19,6 +19,8 @@ https://iptv.852851.xyz/ch/a5e9e7032ecb8af768a65c9ae12fc884/master.m3u8
 http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png",凤凰中文
 rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png",凤凰中文
+http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png",凤凰资讯
 rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
 #EXTINF:-1 tvg-name="公视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/公视.png",公视
@@ -29,6 +31,8 @@ http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 #EXTINF:-1 tvg-name="民视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视.png",民视
 http://37.27.111.214:8080/live/6/hls.m3u8
+#EXTINF:-1 tvg-name="探索" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/探索.png",探索
+http://hao6688.3322.org:30066/stream/channelid/2043319510?ticket=5020714b439c287bf3cfdc0a4069d115647bb9d9&profile=pass
 #EXTINF:-1 tvg-name="娱乐新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/娱乐新闻.png",娱乐新闻
 https://iptv.852851.xyz/ch/ad60506f0a7a41a03d9dbd1b59129066/master.m3u8
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png",中视
