@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/arsytgo/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="Abc" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Abc.png" group-title="🕘️更新时间",2026-06-07 19:44:31
+#EXTINF:-1 tvg-name="Abc" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Abc.png" group-title="🕘️更新时间",2026-06-08 06:56:53
 http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery.png",Discovery
 http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
@@ -29,14 +29,10 @@ https://live.264788.xyz/channel/hubeiweishi?streamid=501fea86d3931580a92805df154
 http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png",湖北卫视
 http://198.204.228.26/live/hbwshd.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png",湖北卫视
-http://fuxin.yunjifei.top:999/tsfile/live/0132_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png",湖南卫视
 https://live.264788.xyz/channel/hunanweishi?streamid=763a3d2b96259ea95b79897ae6de248d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png",湖南卫视
 http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png",湖南卫视
-http://fuxin.yunjifei.top:999/tsfile/live/0128_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png",江苏卫视
 https://live.264788.xyz/channel/jiangsuweishi?streamid=532885846757ddf8f597ab4a3ca7101e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png",江苏卫视
