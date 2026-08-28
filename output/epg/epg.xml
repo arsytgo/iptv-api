@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260827200723 +0800">
+<tv date="20260828055553 +0800">
 	<channel id="东方卫视">
 		<display-name lang="zh">东方卫视</display-name>
 	</channel>
@@ -798,7 +798,7 @@
 	<programme channel="东方卫视" start="20260827233600 +0800" stop="20260827235700 +0800">
 		<title lang="zh">成长的烦恼第五季(24)</title>
 	</programme>
-	<programme channel="东方卫视" start="20260827235700 +0800" stop="20260828000100 +0800">
+	<programme channel="东方卫视" start="20260827235700 +0800" stop="20260828000000 +0800">
 		<title lang="zh">MV:从这里闪耀</title>
 	</programme>
 	<programme channel="东方卫视" start="20260828000200 +0800" stop="20260828012200 +0800">
@@ -939,7 +939,7 @@
 	<programme channel="东方卫视" start="20260828233400 +0800" stop="20260828233700 +0800">
 		<title lang="zh">MV:从这里闪耀</title>
 	</programme>
-	<programme channel="东方卫视" start="20260828233700 +0800" stop="20260829000000 +0800">
+	<programme channel="东方卫视" start="20260828233700 +0800" stop="20260829005900 +0800">
 		<title lang="zh">梦想改造家精编(75)</title>
 	</programme>
 	<programme channel="东方卫视" start="20260829005900 +0800" stop="20260829014000 +0800">
@@ -1071,8 +1071,14 @@
 	<programme channel="东方卫视" start="20260829230600 +0800" stop="20260829234900 +0800">
 		<title lang="zh">对手(22)</title>
 	</programme>
-	<programme channel="东方卫视" start="20260829234900 +0800" stop="20260830000000 +0800">
+	<programme channel="东方卫视" start="20260829234900 +0800" stop="20260830005400 +0800">
 		<title lang="zh">开始奏乐开始舞(5)</title>
+	</programme>
+	<programme channel="东方卫视" start="20260830005400 +0800" stop="20260830005700 +0800">
+		<title lang="zh">MV：从这里闪耀</title>
+	</programme>
+	<programme channel="东方卫视" start="20260830011000 +0800" stop="20260830011300 +0800">
+		<title lang="zh">MV：从这里闪耀</title>
 	</programme>
 	<channel id="凤凰中文">
 		<display-name lang="zh">凤凰中文</display-name>
@@ -4392,10 +4398,7 @@
 	<programme channel="北京卫视" start="20260827231100 +0800" stop="20260827235200 +0800">
 		<title lang="zh">红星剧场</title>
 	</programme>
-	<programme channel="北京卫视" start="20260827235200 +0800" stop="20260828002400 +0800">
-		<title lang="zh">红星剧场</title>
-	</programme>
-	<programme channel="北京卫视" start="20260828002400 +0800" stop="20260828011200 +0800">
+	<programme channel="北京卫视" start="20260827235200 +0800" stop="20260828011200 +0800">
 		<title lang="zh">红星剧场</title>
 	</programme>
 	<programme channel="北京卫视" start="20260828011200 +0800" stop="20260828013900 +0800">
@@ -4485,7 +4488,7 @@
 	<programme channel="北京卫视" start="20260828225700 +0800" stop="20260828233500 +0800">
 		<title lang="zh">食养中国</title>
 	</programme>
-	<programme channel="北京卫视" start="20260828233500 +0800" stop="20260829000000 +0800">
+	<programme channel="北京卫视" start="20260828233500 +0800" stop="20260829002700 +0800">
 		<title lang="zh">红星剧场</title>
 	</programme>
 	<programme channel="北京卫视" start="20260829002700 +0800" stop="20260829003500 +0800">
@@ -4589,6 +4592,12 @@
 	</programme>
 	<programme channel="北京卫视" start="20260829234800 +0800" stop="20260830000000 +0800">
 		<title lang="zh">红星剧场</title>
+	</programme>
+	<programme channel="北京卫视" start="20260830000300 +0800" stop="20260830005500 +0800">
+		<title lang="zh">纪录片</title>
+	</programme>
+	<programme channel="北京卫视" start="20260830005500 +0800" stop="20260830013600 +0800">
+		<title lang="zh">档案</title>
 	</programme>
 	<channel id="江苏卫视">
 		<display-name lang="zh">江苏卫视</display-name>
@@ -5211,7 +5220,7 @@
 	<programme channel="江苏卫视" start="20260828230000 +0800" stop="20260828231700 +0800">
 		<title lang="zh">晚间新闻</title>
 	</programme>
-	<programme channel="江苏卫视" start="20260828231700 +0800" stop="20260829000000 +0800">
+	<programme channel="江苏卫视" start="20260828231700 +0800" stop="20260829004600 +0800">
 		<title lang="zh">非来不可</title>
 	</programme>
 	<programme channel="江苏卫视" start="20260829004600 +0800" stop="20260829013500 +0800">
@@ -5946,7 +5955,7 @@
 	<programme channel="浙江卫视" start="20260827224600 +0800" stop="20260827232800 +0800">
 		<title lang="zh">周播剧场:梦想城(31)</title>
 	</programme>
-	<programme channel="浙江卫视" start="20260827232800 +0800" stop="20260828002300 +0800">
+	<programme channel="浙江卫视" start="20260827232800 +0800" stop="20260828000000 +0800">
 		<title lang="zh">周播剧场:梦想城(32)</title>
 	</programme>
 	<programme channel="浙江卫视" start="20260828002300 +0800" stop="20260828025600 +0800">
@@ -6048,7 +6057,7 @@
 	<programme channel="浙江卫视" start="20260828213000 +0800" stop="20260828232400 +0800">
 		<title lang="zh">天赐的声音</title>
 	</programme>
-	<programme channel="浙江卫视" start="20260828232400 +0800" stop="20260829000000 +0800">
+	<programme channel="浙江卫视" start="20260828232400 +0800" stop="20260829003400 +0800">
 		<title lang="zh">重播天赐的声音</title>
 	</programme>
 	<programme channel="浙江卫视" start="20260829003400 +0800" stop="20260829005700 +0800">
@@ -6149,6 +6158,9 @@
 	</programme>
 	<programme channel="浙江卫视" start="20260829234200 +0800" stop="20260830000000 +0800">
 		<title lang="zh">天声一对</title>
+	</programme>
+	<programme channel="浙江卫视" start="20260830000000 +0800" stop="20260830015300 +0800">
+		<title lang="zh">国乐无双</title>
 	</programme>
 	<channel id="湖北卫视">
 		<display-name lang="zh">湖北卫视</display-name>
@@ -6723,7 +6735,7 @@
 	<programme channel="湖北卫视" start="20260827221900 +0800" stop="20260827230000 +0800">
 		<title lang="zh">夜观财经</title>
 	</programme>
-	<programme channel="湖北卫视" start="20260827230000 +0800" stop="20260828004200 +0800">
+	<programme channel="湖北卫视" start="20260827230000 +0800" stop="20260828000000 +0800">
 		<title lang="zh">长江新闻号</title>
 	</programme>
 	<programme channel="湖北卫视" start="20260828004200 +0800" stop="20260828012700 +0800">
@@ -6813,7 +6825,10 @@
 	<programme channel="湖北卫视" start="20260828230000 +0800" stop="20260828233000 +0800">
 		<title lang="zh">长江新闻号</title>
 	</programme>
-	<programme channel="湖北卫视" start="20260828233000 +0800" stop="20260829012700 +0800">
+	<programme channel="湖北卫视" start="20260828233000 +0800" stop="20260829004200 +0800">
+		<title lang="zh">激战</title>
+	</programme>
+	<programme channel="湖北卫视" start="20260829004200 +0800" stop="20260829012700 +0800">
 		<title lang="zh">激战</title>
 	</programme>
 	<programme channel="湖北卫视" start="20260829012700 +0800" stop="20260829021300 +0800">
@@ -6900,7 +6915,13 @@
 	<programme channel="湖北卫视" start="20260829230000 +0800" stop="20260829233000 +0800">
 		<title lang="zh">长江新闻号</title>
 	</programme>
-	<programme channel="湖北卫视" start="20260829233000 +0800" stop="20260830000000 +0800">
+	<programme channel="湖北卫视" start="20260829233000 +0800" stop="20260830001700 +0800">
+		<title lang="zh">激战</title>
+	</programme>
+	<programme channel="湖北卫视" start="20260830001700 +0800" stop="20260830010200 +0800">
+		<title lang="zh">激战</title>
+	</programme>
+	<programme channel="湖北卫视" start="20260830010200 +0800" stop="20260830014800 +0800">
 		<title lang="zh">激战</title>
 	</programme>
 	<channel id="湖南卫视">
@@ -7560,7 +7581,7 @@
 	<programme channel="湖南卫视" start="20260828220000 +0800" stop="20260828235000 +0800">
 		<title lang="zh">中餐厅·南洋拾光季(11)</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260828235000 +0800" stop="20260829000000 +0800">
+	<programme channel="湖南卫视" start="20260828235000 +0800" stop="20260829013000 +0800">
 		<title lang="zh">不想睡的星期五</title>
 	</programme>
 	<programme channel="湖南卫视" start="20260829013000 +0800" stop="20260829040000 +0800">
@@ -7650,7 +7671,10 @@
 	<programme channel="湖南卫视" start="20260829220000 +0800" stop="20260829235000 +0800">
 		<title lang="zh">伦敦合伙人(4)</title>
 	</programme>
-	<programme channel="湖南卫视" start="20260829235000 +0800" stop="20260830000000 +0800">
+	<programme channel="湖南卫视" start="20260829235000 +0800" stop="20260830013000 +0800">
 		<title lang="zh">中餐厅·南洋拾光季</title>
+	</programme>
+	<programme channel="湖南卫视" start="20260830013000 +0800" stop="20260830020000 +0800">
+		<title lang="zh">首发</title>
 	</programme>
 </tv>
