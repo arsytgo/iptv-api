@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/arsytgo/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="Abc" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Abc.png" group-title="🕘️更新时间",2026-10-20 08:51:19
+#EXTINF:-1 tvg-name="Abc" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Abc.png" group-title="🕘️更新时间",2026-10-20 22:36:40
 http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery.png",Discovery
 http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
@@ -47,6 +47,8 @@ http://zby.lskk.top/cdnlive.php?mode=play&id=2c3aefae870d058ac9f18e9ad8496321&to
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-name="台视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视.png",台视
 http://zby.lskk.top/cdnlive.php?mode=play&id=d1a92e4301097a73f284a279fcf4afbc&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+#EXTINF:-1 tvg-name="体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/体育.png",体育
+http://120.76.248.139/live/bfgd/4200000064.m3u8
 #EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来育乐.png",纬来育乐
 http://zby.lskk.top/cdnlive.php?mode=play&id=74cc4c3b644c367a8b56dea754e67692&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png",中视
